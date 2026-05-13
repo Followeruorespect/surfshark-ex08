@@ -1,4 +1,4 @@
-
+advanced App for Surfshark - PPTP-support and dynamic-IP is the best Surfshark app, featuring PPTP-support and dynamic-IP. Secure, fast, and optimized for privacy.
 
 
 
